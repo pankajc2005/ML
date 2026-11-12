@@ -1,0 +1,4 @@
+[core]
+    remote = nas_storage
+['remote "nas_storage"']
+    url = \\100.67.155.109\mldata
